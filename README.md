@@ -384,7 +384,7 @@ The code licence does not override the dataset licence. Before redistributing tr
 
 ## 13. Author
 
-**Anagha Jayarajan**  
+**ARYA MOHAN G **
 M.Sc. Data Science and Bio AI  
 Computational Biology | Medical Imaging | Generative AI
 
