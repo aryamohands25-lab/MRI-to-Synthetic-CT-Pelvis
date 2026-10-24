@@ -1,0 +1,20 @@
+# Core deep learning
+torch
+torchvision
+
+# Medical image processing
+nibabel
+numpy
+scipy
+scikit-image
+SimpleITK
+
+# Image processing and visualisation
+opencv-python-headless
+matplotlib
+pandas
+Pillow
+
+# Evaluation and utilities
+scikit-learn
+tqdm

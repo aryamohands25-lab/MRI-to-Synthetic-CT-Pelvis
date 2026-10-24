@@ -1,0 +1,4 @@
+region,real_mean,sct_mean,real_median,sct_median,MAE,mean_bias
+air,-920.9,-846.9,-981.8,-979.5,120.3,74.0
+bone,499.2,236.0,423.5,172.5,302.1,-263.2
+soft_tissue,-1.9,-12.9,10.2,7.8,55.9,-11.0
